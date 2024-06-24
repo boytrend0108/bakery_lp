@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website
 
 HTML, SCSS, and little JavaScript.
 
-![App Screenshot](https://raw.githubusercontent.com/boytrend0108/bang_olufsen/master/src/images/olufsun.png)
+![App Screenshot](https://raw.githubusercontent.com/boytrend0108/bakery_lp/master/src/screenshot/Screenshot_1.png)
 
 ## Demo
 
