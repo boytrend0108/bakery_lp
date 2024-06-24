@@ -40,9 +40,5 @@
     "linters": {
       "bem": false
     }
-  },
-  "dependencies": {
-    "eslint-config-standard": "^17.1.0",
-    "smoothscroll-for-websites": "^1.4.10"
   }
 }
